@@ -1,0 +1,15 @@
+[
+  {
+    "osm_id": "node/10002",
+    "brand": "H\u00f6ffner",
+    "name": "H\u00f6ffner Demo Berlin",
+    "lat": 52.52,
+    "lon": 13.405,
+    "source": "OpenStreetMap / Overpass API",
+    "osm_tags": {
+      "shop": "furniture",
+      "brand": "H\u00f6ffner",
+      "name": "H\u00f6ffner Demo Berlin"
+    }
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "elements": [
+    {
+      "type": "node",
+      "id": 10001,
+      "lat": 48.137,
+      "lon": 11.575,
+      "tags": {
+        "shop": "furniture",
+        "brand": "XXXLutz",
+        "name": "XXXLutz Demo Munich"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10002,
+      "lat": 52.52,
+      "lon": 13.405,
+      "tags": {
+        "shop": "furniture",
+        "brand": "H\u00f6ffner",
+        "name": "H\u00f6ffner Demo Berlin"
+      }
+    }
+  ]
+}
